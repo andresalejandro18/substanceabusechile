@@ -1,2 +1,10 @@
 # Family Dynamics and Youth Risk for Substance Abuse: A Study in Chile
-Thesis Project for Data Science - Biostatistics Program
+Thesis Project for Data Science - Biostatistics Concentration
+
+## Introduction
+
+Chile is regarded as one of the most stable countries in Latin America; however, the country has recently been observing a rise in illicit drug trafficking and consumption. Despite maintaining a secure economy and democracy after the dictatorship of Augusto Pinochet, Chile is struggling with the rise of crime and drug trafficking. This has caused growing concerns among the general public, specifically how it has impacted Chilean youth and what it can mean for the future. While external social factors contribute to the rise of drug consumption among Chilean adolescents, it is important to note that family dynamics can impact youth and be a predictive factor for the rise of drug consumption. This case study investigates what combinations of risk factors predict the youth groups most likely to consume drugs, through the use of predictive modeling. To
+determine the combinations, data was acquired from the Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol (SENDA), a department under the Chilean Interior Ministry. The data comes from an annual questionnaire given to students in the 8° b´asico y 4° medio in the Chilean school system (equivalent to 8th grade and 12th grade in the U.S. school system). The questions in the survey relate to the family dynamics at home, their history of drug consumption, and their academic performance in school. The dataset will have responses from 2001 to 2023 for the analysis. This analysis will include preliminary patterns within the region, such as demographic patterns and descriptive statistics, that will determine which factors can be implemented into the predictive modeling. The predictive modeling generates an understanding of how drug crimes and substance abuse go hand-in-hand in Chile, a heavily debated issue during the 2025 presidential elections. In addition, it provides insights into how Chile responds to substance treatment policies and tackles drug trafficking throughout the nation.
+
+## Methodology
+
