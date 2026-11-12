@@ -1,5 +1,6 @@
 # Family Dynamics and Youth Risk for Substance Abuse: A Study in Chile
-*Thesis Project for Data Science - Biostatistics Concentration*
+*Capstone Project for Data Science - Biostatistics Concentration*
+*Spring 2026 - Fall 2026*
 
 ## Abstract
 
